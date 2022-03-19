@@ -1,5 +1,5 @@
 # PHPChat
-Ratchet PHP Chat Demo
+Realtime Chat Chat Demo using Ratchet PHP
 
 # Running
 1. Clone this repo in your root server `WWW` folder.
